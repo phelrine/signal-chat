@@ -1,0 +1,12 @@
+.signal {
+    margin: 5px;
+    display: block;
+}
+
+.unfixed {
+    border: dashed;
+}
+
+.fixed {
+    border: solid;
+}
